@@ -2,6 +2,6 @@
 
 # member
 
-- Takeuchi Akihiro
-- Ozaki Yuki
-- Sahara Yui
+- Igarashi
+- Sato 
+- Tsuchiya
